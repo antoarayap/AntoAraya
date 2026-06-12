@@ -1,12 +1,10 @@
 
+## Cómo fue mi proceso?
 
-### 1. Enfoque de la Pieza
-Esta pieza narrativa aborda de forma cuantitativa la evolución y profesionalización del capital previo en las ganadoras de Miss Universo Chile entre las décadas de 1990 y 2020. Los datos se dividieron en tres categorías ('Profesional', 'Amateur' y 'Sin experiencia') para contrastar el cambio de perfil histórico de las concursantes a lo largo del tiempo.
+Para hacer este trabajo me guié por lo que nos enseñaron en clases sobre estructuración de páginas web. Usé los códigos para crear los párrafos de la crónica, los títulos y las divisiones de los textos. 
 
-### 2. Estructura HTML y Cumplimiento de Requisitos
-Se estructuró el código semántico de la página garantizando todos los requisitos mínimos de la rúbrica:
-* Inclusión de cabecera `<head>` y título descriptivo de la pestaña.
-* Elementos estructurales de organización: `<header>`, `<footer>` y un contenedor principal `<div>` para agrupar las secciones.
-* Títulos jerárquicos (`<h1>` y `<h2>`) y párrafos de texto (`<p>`) para desplegar la crónica.
-* Integración directa y viva de la visualización interactiva de Altair en el cuerpo de la página.
-* Enlace dinámico externo (`<a>`) a la documentación oficial de la librería.
+De igual manera tuve que recurrir a Gemini para que me ayudara a entender cómo generar algunos códigos más complejos, especialmente para lograr que el gráfico de barras de Altair se viera e interactuara dentro de la página, sin necesidad de arrastrar archivos externos que se me perdían en el computador. Mientras le pedía ayuda, leí los códigos para comprender qué es lo que lograba con ellos y por qué se estructuraba el script de esa manera.
+
+Además, al principio tuve hartos problemas intentando organizar las carpetas en el repositorio y logrando que GitHub encontrara el archivo visual, pero conversando con la IA entendí cómo incrustar los datos directamente en el código del index para que el gráfico se dibujara solo al cargar la web.
+
+**LINK:** https://antoarayap.github.io/pagina-web-prueba/
